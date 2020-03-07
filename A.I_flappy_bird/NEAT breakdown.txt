@@ -1,0 +1,7 @@
+Inputs: bird y, top_pipe, bottom_pipe
+Outputs: jump?
+Activation Function: tanH (greatest negative value closest to -1, greatest positive value closest to 1)
+Population size: 100
+Fitness Function: distance (take the bird that travelled furthest)
+Max generation: 30
+ 
